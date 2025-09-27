@@ -1,0 +1,37 @@
+{
+  "name": "ln-travel-vue",
+  "version": "1.0.0",
+  "description": "旅牛网前端项目 - 基于Vue3的旅游景区推荐系统",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "vue3",
+    "travel",
+    "tourism",
+    "echarts",
+    "element-plus"
+  ],
+  "author": "LN Travel Team",
+  "license": "MIT",
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^1.7.7",
+    "echarts": "^5.5.1",
+    "element-plus": "^2.8.4",
+    "pinia": "^2.2.4",
+    "sass": "^1.93.2",
+    "vue": "^3.5.11",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/cli-service": "^5.0.8",
+    "vite": "^5.4.8"
+  }
+}
